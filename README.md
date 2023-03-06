@@ -30,4 +30,8 @@ you will need to install pyttsx3:
 
 PS>pip install pyttsx3
 
+#### bot_log.csv
+
+if you choose to use the bot_log.csv it is a small pre trained modual that if you place in the same directory as Python-Assistant, it will has some pre defined conversations.
+
 #### enjoy :)
