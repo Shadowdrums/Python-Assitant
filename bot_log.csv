@@ -1,10 +1,7 @@
 User,Bot
 hello,Hello.
 what is your name?,My name is Pi Assistant. What is yours?
-shadowdrums,nice to meet you shadowdrums.
 how are you today,"Im doing fine, thanks for asking."
-fuck you,youre not real im real
-what is your name,My name is Lexicon your Pi Assistant.
 can you do math?,only if you teach me
 can you write code?,No but my friend BoB does.
 do you write code?,No but my friend BoB does.
@@ -17,7 +14,6 @@ can you code,No but my buddy BoB does
 13,Ran TCP-decode.py
 whats poppin blood,whats happening doggy
 howdy,howdy brother
-fuck off,please select exit
 24,Ran Install.py
 23,Ran Informer.py
 ,i require input
